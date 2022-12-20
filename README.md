@@ -1,6 +1,6 @@
 ## Felipe N. Santos
 ### Software Engineer
-Hi, I'm a beginner Web Developer (Node.js, ReactJS) and an experienced Desktop Developer (Delphi 7, Delphi XE 10.3).<br>
+Hi, I'm a beginner Web Developer (Node.js, ReactJS) and an experienced Desktop Developer (Delphi).<br>
 Here on my GitHub profile you can see my projects.
 
 <a href="https://www.linkedin.com/in/fnascimentods/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Felipe%20N.%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fnascimentods/"/></a>
