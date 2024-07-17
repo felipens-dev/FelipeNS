@@ -1,9 +1,8 @@
 ## Felipe N. Santos
-### Software Engineer
-Hi, I'm a beginner Web Developer (Node.js, ReactJS) and an experienced Desktop Developer (Delphi).<br>
-Here on my GitHub profile you can see my projects.
+### Desenvolvedor de Software
+Sou desenvolvedor de software, especializado em Delphi e com experiência na implementação e manutenção de sistemas ERP. Nas horas vagas, estudo desenvolvimento web com foco em TypeScript, JavaScript, React.js e Node.js, sempre buscando aprimorar minhas habilidades e acompanhar as tendências do mercado..
 
-<a href="https://www.linkedin.com/in/fnascimentods/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Felipe%20N.%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fnascimentods/"/></a>
+<a href="https://www.linkedin.com/in/felipens-dev/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Felipe%20N.%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipens-dev/"/></a>
 
 
 <!---
